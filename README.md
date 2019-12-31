@@ -11,7 +11,7 @@ This file presents the artifacts that are used in Chapter 4 of my PhD thesis, wh
 * **Lunch configuration: The lucn configuration to the transformation tool hugo/RT:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/hugort.launch
 
 * **Artifacts: The school management system case study:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/SchoolManagementSystem.zip
-* **Artifacts: The delivery management system case study:** https://github.com/confFair/project/blob/master/DeliveryManagementSystem.zip
+* **Artifacts: The delivery management system case study:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/DeliveryManagementSystem.zip
 * **Artifacts: The loan management system case study:** https://github.com/confFair/project/blob/master/LoanManagementSystem.zip
 
 The artifacts of each each case study contains: 
