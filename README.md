@@ -12,7 +12,7 @@ This file presents the artifacts that are used in Chapter 4 of my PhD thesis, wh
 
 * **Artifacts: The school management system case study:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/SchoolManagementSystem.zip
 * **Artifacts: The delivery management system case study:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/DeliveryManagementSystem.zip
-* **Artifacts: The loan management system case study:** https://github.com/confFair/project/blob/master/LoanManagementSystem.zip
+* **Artifacts: The loan management system case study:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/LoanManagementSystem.zip
 
 The artifacts of each each case study contains: 
 * A (*.uml*) file: the UML model of the system annotated with the UMLfair profile.
