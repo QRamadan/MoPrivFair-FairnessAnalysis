@@ -8,7 +8,7 @@ This file presents the artifacts that are used in Chapter 4 of my PhD thesis, wh
 # Recources
 
 * **Profile: The UMLfair Profile:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/profile.zip
-* **Lunch configuration: The lucn configuration to the transformation tool hugo/RT:** https://github.com/confFair/project/blob/master/hugort.launch
+* **Lunch configuration: The lucn configuration to the transformation tool hugo/RT:** https://github.com/QRamadan/MoPrivFair-FairnessAnalysis/blob/master/hugort.launch
 
 * **Artifacts: The school management system case study:** https://github.com/confFair/project/blob/master/SchoolManagementSystem.zip
 * **Artifacts: The delivery management system case study:** https://github.com/confFair/project/blob/master/DeliveryManagementSystem.zip
